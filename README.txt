@@ -1,8 +1,6 @@
 ...
 hello
 testing
-<<<<<<< HEAD
-=======
 
 bye
->>>>>>> forked
+forked
